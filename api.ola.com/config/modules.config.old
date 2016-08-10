@@ -23,5 +23,4 @@ return array(
     'ZF\\Versioning',
     'Auction',
     'Category',
-    'AuctionCategory',
 );
